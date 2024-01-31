@@ -1,0 +1,44 @@
+Operadores 
++   -   /   *   %   --  ++  **
+
+Operadores Encurtados
+x += y	    x -= y	      x *= y	x /= y	    x %= y	    x **= y	
+
+Operadores de comparação
+Igual ==                Retorna verdadeiro caso os operandos sejam iguais
+Não Igual !=             Retorna verdadeiro caso os operandos não sejam iguais
+Maior que >             Retorna verdadeiro caso o operando da esquerda seja maior que o da direita.
+Maior ou igual que =>    Retorna verdadeiro caso o operando da esquerda seja maior ou igual que o da direita.
+Menor que <              Retorna verdadeiro caso o operando da esquerda seja menor que o da direita
+Menor ou igual que =<    Retorna verdadeiro caso o operando da esquerda seja menor ou igual que o da direita
+
+DOM
+Ele conecta páginas da web a scripts ou linguagens de programação, representando a estrutura de um documento
+Representa o documento como uma arvore lógica
+
+Arvore DOM
+        window
+location     document    history
+               html
+        head           body
+    meta/title    h1/ p / p / div
+                          strong
+
+Esta acima é um exemplo de arvore DOM, arvore hierarquica, representada por parent e child 
+
+exemplo mais simples de todos para adicionar elementos 
+<script>
+        window.document.write('Olá Mundo')
+</script>
+
+window.document.write(window.document.URL)      Posso colocar na pagina a URL que estou acessando
+
+elemento é qualquer coisa que aparece na arvore DOM 
+posso selecionar esses elementos para navegar dentro da arvore
+5 metodos de selecionar 
+
+por Marca        getElementsByTagName()     posso selecionar mais de um elemento
+por ID  
+por Nome 
+por Classe 
+por Seletor
