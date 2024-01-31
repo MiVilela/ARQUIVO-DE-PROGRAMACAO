@@ -12,11 +12,12 @@ Com uma experiência de 5 anos em um provedor de internet, adquiri um amplo conh
 
 Além disso, busquei aprimorar minhas habilidades com cursos complementares em front-end, redes de computadores, cibersegurança, git e github, python, entre outros. Estou sempre em busca de novos desafios e oportunidades para continuar aprendendo e crescendo na área de tecnologia.
 
-## Resumos
+## Resumos e Anotações
 
 | Conteúdo  | Link |
 |:---------:|------:|
 | Git e GitHub | [Acesse aqui](https://github.com/MiVilela/ARQUIVO-DE-PROGRAMACAO/blob/main/Resumo%20GIT%20e%20GITHUB)|
+| JavaScript | [Acesse aqui]()
 
 ## Atividades
 
