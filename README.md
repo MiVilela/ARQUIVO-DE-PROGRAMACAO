@@ -23,3 +23,9 @@ Além disso, busquei aprimorar minhas habilidades com cursos complementares em f
 
 | Atividade | Linguagem | Link |
 |:----------|-----------|-----:|
+|Equilibrando saldo | JS | [Acesse aqui](https://github.com/MiVilela/ARQUIVO-DE-PROGRAMACAO/blob/main/CURSO%20DE%20JAVASCRIPT/ATIVIDADES/desafio-1-equilibrando-saldo.js)|
+|Organizando ativos | JS | [Acesse aqui](https://github.com/MiVilela/ARQUIVO-DE-PROGRAMACAO/blob/main/CURSO%20DE%20JAVASCRIPT/ATIVIDADES/desafio-2-organizando-ativos.js)|
+|Realizar saque em banco | JS | [Acesse aqui](https://github.com/MiVilela/ARQUIVO-DE-PROGRAMACAO/blob/main/CURSO%20DE%20JAVASCRIPT/ATIVIDADES/desafio-3-banco.js)|
+|Juros compostos | JS | [Acesse aqui](https://github.com/MiVilela/ARQUIVO-DE-PROGRAMACAO/blob/main/CURSO%20DE%20JAVASCRIPT/ATIVIDADES/desafio-4-juros-compostos.js)|
+|O grande depósito | JS | [Acesse aqui](https://github.com/MiVilela/ARQUIVO-DE-PROGRAMACAO/blob/main/CURSO%20DE%20JAVASCRIPT/ATIVIDADES/desafio-5-o-grande-deposito)|
+|Atividades diversas de python | Python | [Acesse aqui](https://github.com/MiVilela/ARQUIVO-DE-PROGRAMACAO/tree/main/TAREFAS%20EM%20PYTHON%20FEITAS%20NA%20FACULDADE)|
