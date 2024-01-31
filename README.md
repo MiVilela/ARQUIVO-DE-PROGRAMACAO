@@ -16,7 +16,7 @@ Além disso, busquei aprimorar minhas habilidades com cursos complementares em f
 
 | Conteúdo  | Link |
 |:---------:|------:|
-| Git e GitHub | [Acesse aqui](https://github.com/MiVilelaG/resumos-e-tarefas-bootcamp-santander/blob/main/resumos/resumo-aula1.md)|
+| Git e GitHub | [Acesse aqui](https://github.com/MiVilela/ARQUIVO-DE-PROGRAMACAO/blob/main/Resumo%20GIT%20e%20GITHUB)|
 
 ## Atividades
 
